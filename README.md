@@ -168,7 +168,9 @@ The web page is live at **[Click Me](https://maze.minianon.in)**. Try it out and
 
 ## Connect with me
 
-If you’d like to connect, feel free to reach out — [Click here](https://minianonlink.vercel.app/tusharbhardwaj)
+If you’d like to connect, feel free to reach out — [Click here](https://link.minianon.in/tusharbhardwaj)
+
+If my work helps you, you can support it on [GitHub Sponsors](https://github.com/sponsors/minianon) · [Buy me a chai](https://buymeachai.ezee.li/minianon).
 
 ## Design docs
 
